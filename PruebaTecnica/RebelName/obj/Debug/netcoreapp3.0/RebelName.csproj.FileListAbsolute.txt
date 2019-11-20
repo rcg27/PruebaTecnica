@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\PruebaTecnica.exe
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\RebelName.deps.json
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\RebelName.dll
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\RebelName.pdb
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\PruebaTecnica.dll
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\bin\Debug\netcoreapp3.0\PruebaTecnica.pdb
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\obj\Debug\netcoreapp3.0\RebelName.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\obj\Debug\netcoreapp3.0\RebelName.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\obj\Debug\netcoreapp3.0\RebelName.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\obj\Debug\netcoreapp3.0\RebelName.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\obj\Debug\netcoreapp3.0\RebelName.dll
+C:\Users\Usuario\source\repos\PruebaTecnica\RebelName\obj\Debug\netcoreapp3.0\RebelName.pdb
